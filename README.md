@@ -1,5 +1,15 @@
 # Week 5
 
+### Days 31: June 19, Tuesday.
+
+**Today's Progress**: Rcpp.
+
+**Thoughts** 
+- Today I got acquainted with a wonderful package Rcpp, which allows you to eliminate bottlenecks in the code R.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_31.R)
+
 ### Days 30: June 18, Monday.
 
 **Today's Progress**: Memory.
