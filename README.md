@@ -1,11 +1,29 @@
 # Week 5
 
+### Days 33: June 21, Thursday.
+
+**Today's Progress**: 'R packages'.
+
+**Thoughts** 
+- Began to delve into the structure of R packages
+- Dealt with package components: Code (R/), Package metadata (DESCRIPTION), Object documentation (man/)
+
+### Days 32: June 20, Wednesday.
+
+**Today's Progress**: Keras, CNN.
+
+**Thoughts** 
+- I studied how CNN is trained on a small dataset
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_32.R)
+
 ### Days 31: June 19, Tuesday.
 
 **Today's Progress**: Rcpp.
 
 **Thoughts** 
-- Today I got acquainted with a wonderful package Rcpp, which allows you to eliminate bottlenecks in the code R.
+- Today I got acquainted with a wonderful package Rcpp, which allows you to eliminate bottlenecks in the code R
 
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_31.R)
