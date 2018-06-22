@@ -1,5 +1,15 @@
 # Week 5
 
+### Days 34: June 22, Friday.
+
+**Today's Progress**: Imager, blob detection.
+
+**Thoughts** 
+- Today I studied blob detection/extraction of local maxima, denoising, scale-space with imager package.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_34.R)
+
 ### Days 33: June 21, Thursday.
 
 **Today's Progress**: 'R packages'.
