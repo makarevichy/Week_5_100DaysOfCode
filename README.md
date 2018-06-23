@@ -2,7 +2,7 @@
 
 ### Days 35: June 23, Saturday.
 
-**Today's Progress**: Imager, blob detection.
+**Today's Progress**: Melt and cast.
 
 **Thoughts** 
 - Today I saw on the [r-bloggers.com](https://www.r-bloggers.com/melt-and-cast-the-shape-of-your-data-frame-exercises/) site exercises to melt and cast the shape data.frame and decided to try.
