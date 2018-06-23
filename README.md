@@ -1,5 +1,15 @@
 # Week 5
 
+### Days 35: June 23, Saturday.
+
+**Today's Progress**: Imager, blob detection.
+
+**Thoughts** 
+- Today I saw on the [r-bloggers.com](https://www.r-bloggers.com/melt-and-cast-the-shape-of-your-data-frame-exercises/) site exercises to melt and cast the shape data.frame and decided to try.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_35.R)
+
 ### Days 34: June 22, Friday.
 
 **Today's Progress**: Imager, blob detection.
