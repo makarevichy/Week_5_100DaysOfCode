@@ -1,6 +1,6 @@
 # Week 5
 
-### Days 35: June 23, Saturday.
+### Day 35: June 23, Saturday.
 
 **Today's Progress**: Melt and cast.
 
@@ -10,7 +10,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_35.R)
 
-### Days 34: June 22, Friday.
+### Day 34: June 22, Friday.
 
 **Today's Progress**: Imager, blob detection.
 
@@ -20,7 +20,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_34.R)
 
-### Days 33: June 21, Thursday.
+### Day 33: June 21, Thursday.
 
 **Today's Progress**: 'R packages'.
 
@@ -28,7 +28,7 @@
 - Began to delve into the structure of R packages
 - Dealt with package components: Code (R/), Package metadata (DESCRIPTION), Object documentation (man/)
 
-### Days 32: June 20, Wednesday.
+### Day 32: June 20, Wednesday.
 
 **Today's Progress**: Keras, CNN.
 
@@ -38,7 +38,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_32.R)
 
-### Days 31: June 19, Tuesday.
+### Day 31: June 19, Tuesday.
 
 **Today's Progress**: Rcpp.
 
@@ -48,7 +48,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_31.R)
 
-### Days 30: June 18, Monday.
+### Day 30: June 18, Monday.
 
 **Today's Progress**: Memory.
 
@@ -59,7 +59,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_30.R)
 
-### Days 29: June 17, Sunday.
+### Day 29: June 17, Sunday.
 
 **Today's Progress**: Profiling, optimising code.
 
